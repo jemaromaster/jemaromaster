@@ -1,4 +1,5 @@
 ### Hi there, I'm Jesús 👋 
+
 <p align="center">
 <a href="https://www.linkedin.com/in/jesus-romero-sw-engineer"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
@@ -12,7 +13,7 @@ I'm interested in web development, healthcare informatics standards, deep learni
 ### :man_student: &nbsp;Academic background:
 
 - B. Eng in Computer Science from [Universidad Nacional de Asunción](https://www.pol.una.py/) :paraguay:
-- Master in Computer Engineering from [Politecnico di Milano](https//www.polimi.it/) :it: Track: ICT Engineering, Business and Innovation. [Thesis doc](http://hdl.handle.net/10589/154591) 
+- Master in Computer Engineering from [Politecnico di Milano](https//www.polimi.it/) :it: Track: ICT Engineering, Business and Innovation. [Thesis doc](http://hdl.handle.net/10589/154591). 
 
 ---
 
@@ -31,7 +32,7 @@ I'm interested in web development, healthcare informatics standards, deep learni
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Keycloak_Logo.png" title="Keycloak" alt="Keycloak" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/apachekafka/apachekafka-original-wordmark.svg" title="Apache Kafka" alt="Apache Kafka" width="40" height="40"/>
-  <img src="https://build.fhir.org/assets/images/fhir-logo-www.png" title="HL7 FHIR" alt="HL7 FHIR" width="40" height="40"/>
+  <img src="https://build.fhir.org/assets/images/fhir-logo-www.png" title="HL7 FHIR" alt="HL7 FHIR" width="100" height="36"/>
 </div>
 
 ---
